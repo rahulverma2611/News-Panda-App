@@ -1,0 +1,46 @@
+
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT News Desk",
+        "title": "Budget session 2023 LIVE: Rajya Sabha proceedings adjourned till 2 pm - Hindustan Times",
+        "description": "Union Budget session 2023: The second part of the Budget Session 2023 resumed on March 13 and will continue till April 6.",
+        "url": "https://www.hindustantimes.com/india-news/parliament-live-2nd-part-of-budget-session-to-resume-today-after-row-over-rahul-101678762721419.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/03/14/1600x900/ANI-20230313209-0_1678763103473_1678763103473_1678763144169_1678763144169.jpg",
+        "publishedAt": "2023-03-14T06:39:03Z",
+        "content": "The second leg of Union Budget 2023 commenced on Monday, after the first half being marred by a series of disruptions over number of issues with Hindenburg report and Adani Group issue being the foca… [+18679 chars]"
+      }
+    ]
+  }
